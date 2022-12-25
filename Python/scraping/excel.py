@@ -28,7 +28,6 @@ while i <= len(sheetRange['A']):
     biologi = sheetRange['D'+str(i)].value
     fisika = sheetRange['E'+str(i)].value
 
-    
     try:
         driver.find_element(By.XPATH, '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input').send_keys(nis)
         time.sleep(2)
