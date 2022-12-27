@@ -12,3 +12,4 @@ Langkah- langkah pengerjaan
 5. Klik Install
 6. jika sudah, Masuk menu Tools -> Board 
 7. Pilih NodeMCU 1.0 (ESP-12E Module)
+8. Jika sudah, buka main program.ino
